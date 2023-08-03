@@ -11,7 +11,10 @@ public class Demo {
 		System.out.println("hi");
 		
 	}
-	
+	public void sampledata()
+	{
+		System.out.println("For only sample data");
+	}
 	
 
 }
