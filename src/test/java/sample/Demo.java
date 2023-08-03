@@ -14,6 +14,7 @@ public class Demo {
 	public void sampledata()
 	{
 		System.out.println("For only sample data");
+		System.out.println("hi");
 	}
 	
 
