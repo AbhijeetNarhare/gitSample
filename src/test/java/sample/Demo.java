@@ -8,6 +8,10 @@ public class Demo {
 	public void simple()
 	{
 		System.out.println("This is my first commit");
+		System.out.println("hi");
+		
 	}
+	
+	
 
 }
